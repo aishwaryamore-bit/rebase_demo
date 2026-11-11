@@ -1,2 +1,6 @@
 Learning git base
+
 Made remote changes here 
+
+This is the local change
+
